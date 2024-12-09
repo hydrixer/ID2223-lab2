@@ -1,4 +1,4 @@
-# ID2223-lab2
+# ID2223-lab2    work by groupC
 Model we fine-tuned for lab2 of course ID2223  
 To check out this file on hugging face: [click here](https://huggingface.co/rkwsuper/lora_model/tree/main)  
 To see the user interface: [click here](Huggingface.co/spaces/someday12/lab)  
