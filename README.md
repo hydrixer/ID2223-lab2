@@ -14,6 +14,6 @@ Task2: To improve model performance, we can
 - **Standardize the data**: Prepare all data in a consistent format and clean irrelevant or duplicate data.  
 - Use **updated and fresh data** to ensure the model learns from the latest information.
 
-work done by groupC
+A work done by groupC
 
 
