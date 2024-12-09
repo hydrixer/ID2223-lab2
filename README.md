@@ -1,4 +1,4 @@
-# ID2223-lab2    work by groupC
+# ID2223-lab2
 Model we fine-tuned for lab2 of course ID2223  
 To check out this file on hugging face: [click here](https://huggingface.co/rkwsuper/lora_model/tree/main)  
 To see the user interface: [click here](Huggingface.co/spaces/someday12/lab)  
@@ -12,6 +12,8 @@ Task2: To improve model performance, we can
 **b) Data-Centric Approach:**  
 - Perform **data augmentation** by making small changes to sentences, such as rephrasing, word order changes to add variety.  
 - **Standardize the data**: Prepare all data in a consistent format and clean irrelevant or duplicate data.  
-- Use **updated and fresh data** to ensure the model learns from the latest information.  
+- Use **updated and fresh data** to ensure the model learns from the latest information.
+
+work done by groupC
 
 
