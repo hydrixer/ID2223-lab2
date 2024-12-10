@@ -12,6 +12,8 @@ Task2: To improve model performance, we can
 **b) Data-Centric Approach:**  
 - Perform **data augmentation** by making small changes to sentences, such as rephrasing, word order changes to add variety.  
 - **Standardize the data**: Prepare all data in a consistent format and clean irrelevant or duplicate data.  
-- Use **updated and fresh data** to ensure the model learns from the latest information.  
+- Use **updated and fresh data** to ensure the model learns from the latest information.
+
+A work done by groupC
 
 
